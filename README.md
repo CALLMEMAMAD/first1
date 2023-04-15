@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 
-    double tool , arz;
+    double lengh , width;
     cout << "enter lengh: ";
     cin  >> tool;
 
