@@ -5,7 +5,7 @@
 using namespace std;
 
 int main()
-{
+
     double tool , arz;
     cout << "enter tool: ";
     cin  >> tool;
@@ -17,4 +17,6 @@ int main()
 
     return 0;
 
-}
+
+
+
