@@ -1,5 +1,6 @@
-# first1
- Upload the local repo on GitHub Account
+# environment_rectangle
+ //this c++ simple program can computing environment of rectangle  
+
 
 #include iostream
 using namespace std;
