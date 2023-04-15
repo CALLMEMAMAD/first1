@@ -7,13 +7,13 @@ using namespace std;
 int main()
 
     double tool , arz;
-    cout << "enter tool: ";
+    cout << "enter lengh: ";
     cin  >> tool;
 
-    cout << "enter arz: ";
+    cout << "enter width: ";
     cin >> arz;
 
-    cout <<(tool + arz) *2;
+    cout <<(lengh + width) *2;
 
     return 0;
 
